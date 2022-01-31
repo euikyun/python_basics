@@ -1,1 +1,1 @@
-print("Hello Coding Python")
+print("Python"*3)
